@@ -1,2 +1,2 @@
 # Arvore-de-Diretorios
-Com esse escript voce podera varrer a estrutura de diretorios que desejar.
+Com esse escript voce podera varrer de forma recursiva a estrutura de diretorios que desejar.
